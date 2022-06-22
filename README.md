@@ -1,9 +1,9 @@
-# Nomoko_ML_task
+# Predict House Prices to invest in Germany
 
-I present here the ML task for the position of Data Scientist/ML Engineer. 
-My solution consists in 4 Notebooks with their utils:
 
-1. 'Nomoko_Analysis_Data.ipynb' where I analyse the data, clean the data and create new features. For the final pipeline I create the script 'clean_pipeline.py'. From which the train-val data and the test data where I will test my final solution.
+4 Notebooks with their utils:
+
+1. 'Analysis_Data.ipynb' where I analyse the data, clean the data and create new features. For the final pipeline I create the script 'clean_pipeline.py'. From which the train-val data and the test data where I will test my final solution.
 
 2. 'Nomoko_Task.ipynb' where I make decisions of features based on CV scores, select the best features, select model and its hyperparameters. I leave ensembling as an extension.
 
