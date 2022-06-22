@@ -1,0 +1,1 @@
+{"feature_cols": ["livingSpace", "serviceCharge", "heatingCosts", "streetPlain_price_costs_mean", "streetPlain_baseRent_size", "geo_plz_price_costs_mean"], "target": "price_costs_square_meter"}
